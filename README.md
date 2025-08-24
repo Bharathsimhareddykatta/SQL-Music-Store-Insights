@@ -85,4 +85,4 @@ Feel free to use, modify, or extend this project for learning or portfolio purpo
 ---
 
 **Enjoy building and analyzing!** Let me know if you'd like help adding visuals or enhancing the query set for richer insights.
-::contentReference[oaicite:1]{index=1}
+
